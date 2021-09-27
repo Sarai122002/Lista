@@ -1,0 +1,10 @@
+C:\Users\NATH RODRIGUEZ\Desktop\Listas\ListaMascota\ListaMascota\bin\Debug\ListaMascota.exe.config
+C:\Users\NATH RODRIGUEZ\Desktop\Listas\ListaMascota\ListaMascota\bin\Debug\ListaMascota.exe
+C:\Users\NATH RODRIGUEZ\Desktop\Listas\ListaMascota\ListaMascota\bin\Debug\ListaMascota.pdb
+C:\Users\NATH RODRIGUEZ\Desktop\Listas\ListaMascota\ListaMascota\obj\Debug\ListaMascota.csprojAssemblyReference.cache
+C:\Users\NATH RODRIGUEZ\Desktop\Listas\ListaMascota\ListaMascota\obj\Debug\ListaMascota.FrmDatos.resources
+C:\Users\NATH RODRIGUEZ\Desktop\Listas\ListaMascota\ListaMascota\obj\Debug\ListaMascota.Properties.Resources.resources
+C:\Users\NATH RODRIGUEZ\Desktop\Listas\ListaMascota\ListaMascota\obj\Debug\ListaMascota.csproj.GenerateResource.cache
+C:\Users\NATH RODRIGUEZ\Desktop\Listas\ListaMascota\ListaMascota\obj\Debug\ListaMascota.csproj.CoreCompileInputs.cache
+C:\Users\NATH RODRIGUEZ\Desktop\Listas\ListaMascota\ListaMascota\obj\Debug\ListaMascota.exe
+C:\Users\NATH RODRIGUEZ\Desktop\Listas\ListaMascota\ListaMascota\obj\Debug\ListaMascota.pdb
